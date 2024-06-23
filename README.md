@@ -37,3 +37,9 @@ Ejercicio C.2: "Otros text embedding" (opcional)
 Ejercicio C.3: "Conjunto de test" **(obligatorio)**
 
 Ejercicio C.4: "MeLi Challenge 2019" (opcional)
+
+##### Parte D: [Límitaciones de los LLM](https://github.com/mariano22/llm-austral/blob/main/TP1/TP1_LimitacionesLLM.ipynb)
+
+Ejercicio D.1: "Transformación en las targets" (opcional)
+
+Ejercicio D.2: "Binary Cut" (opcional)
